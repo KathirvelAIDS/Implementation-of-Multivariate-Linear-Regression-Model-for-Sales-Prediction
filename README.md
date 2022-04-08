@@ -29,7 +29,7 @@ Print the Mean Square Error(MSE) and R square error.
 Step 7:
 End of the program.
 
-PROGRAM:
+##PROGRAM:
 /*
 Program to implement the multivariate linear regression model for sales prediction.
 Developed by: kathirvel A 
@@ -66,6 +66,7 @@ l.predict([[150.3,240.5,234.5]])
 
 
 ## Output:
+![out (2)](https://user-images.githubusercontent.com/94911373/162370064-d15e3fef-e51d-408e-865a-515e50b2c1e2.png)
 
 
 ## Result:
