@@ -34,7 +34,7 @@ End of the program.
 Program to implement the multivariate linear regression model for sales prediction.
 Developed by: kathirvel A 
 RegisterNumber: 21002362
-*/
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -63,7 +63,7 @@ print("MSE is {}".format(MSE))
 r2 = metrics.r2_score(Y_test,Y_pred)
 print("R squared error is {}".format(r2))
 l.predict([[150.3,240.5,234.5]])
-
+*/
 
 ## Output:
 ![out (2)](https://user-images.githubusercontent.com/94911373/162370064-d15e3fef-e51d-408e-865a-515e50b2c1e2.png)
