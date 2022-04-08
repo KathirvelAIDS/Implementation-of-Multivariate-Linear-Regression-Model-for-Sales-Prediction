@@ -29,13 +29,13 @@ Print the Mean Square Error(MSE) and R square error.
 Step 7:
 End of the program.
 
-##PROGRAM:
+## PROGRAM:
 /*
 Program to implement the multivariate linear regression model for sales prediction.
 Developed by: kathirvel A 
 RegisterNumber: 21002362
 
-
+```PYTHON
 import pandas as pd
 import matplotlib.pyplot as plt
 df = pd.read_csv("Advertising.csv")
@@ -63,6 +63,7 @@ print("MSE is {}".format(MSE))
 r2 = metrics.r2_score(Y_test,Y_pred)
 print("R squared error is {}".format(r2))
 l.predict([[150.3,240.5,234.5]])
+```
 */
 
 ## Output:
